@@ -26,6 +26,7 @@
 - [Component Inventory](./component-inventory.md) — All React components with props, behavior, dependencies
 - [API Contracts](./api-contracts.md) — TMDB API endpoints, caching, image URLs, error handling
 - [Development Guide](./development-guide.md) — Setup, scripts, deployment, adding pages/API calls
+- [Diagrams](./diagrams.md) — Architecture, component tree, routing, API lifecycle, data flow (Mermaid)
 
 ## Existing Project Artifacts
 
